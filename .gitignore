@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+
+catboost_info
+catboost_model.dump
+model_depth_*
